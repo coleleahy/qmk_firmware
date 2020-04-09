@@ -1,0 +1,6 @@
+#pragma once
+
+// See docs/feature_rgb_matrix.md
+#define RGB_MATRIX_FRAMEBUFFER_EFFECTS
+#define RGB_MATRIX_KEYPRESSES
+#define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_DIGITAL_RAIN
